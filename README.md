@@ -18,7 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ialebedeff&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
