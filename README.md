@@ -13,10 +13,5 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ialebedeff&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=ialebedeff&icon=6&color=6)](https://visitcount.itsvg.in)
